@@ -1,0 +1,15 @@
+.panelFont{
+  font-size:20px;
+}
+.box{
+  padding: 3% 0% 1% 3%
+}
+.imgBorder{
+border: 1px solid red;
+
+}
+.imgLatitude{
+width: 160px;
+height: 160px;
+margin: 10% 0% 20% 0%;
+}
